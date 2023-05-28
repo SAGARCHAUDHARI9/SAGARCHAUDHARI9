@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SAGARCHAUDHARI9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sagar Chaudhari
+- 🎓 Dr.Babasaheb Ambedkar Technological University
+-  👨‍💻 Mechanical Enginnering 
+- 🌱 I’m currently learning ...Data Analytics & machine learning
 
 <!---
 SAGARCHAUDHARI9/SAGARCHAUDHARI9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
