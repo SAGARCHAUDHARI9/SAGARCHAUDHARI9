@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Chaudhari
-- 🎓 Dr.Babasaheb Ambedkar Technological University
--  👨‍💻 Mechanical Enginnering 
+- 👨‍💻 Mechanical Enginnering...
+-  🎓 Dr.Babasaheb Ambedkar Technological University
 - 🌱 I’m currently learning ...Data Analytics & machine learning
 
 <!---
